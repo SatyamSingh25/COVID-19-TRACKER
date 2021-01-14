@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Covid 19 Tracker</string>
+
+    <string name="tracker"><u>Tracker</u></string>
+    <string name="entire_world_data"><u>Entire World Data</u></string>
+    <string name="indian_cases"><u>Indian Cases</u></string>
+    <string name="statewise"><u>Statewise</u></string>
+    <string name="indian_data"><u>Indian Data</u></string>
+    <string name="recovered"><u>Recovered Total</u></string>
+    <string name="recovered_new"><u>Recovered Today</u></string>
+    <string name="total_cases"><u>Total Cases</u></string>
+    <string name="today_cases"><u>Today Cases</u></string>
+    <string name="today_deaths"><u>Today Deaths</u></string>
+    <string name="total_deaths"><u>Total Deaths</u></string>
+    <string name="uttar_pradesh"><u>Uttar Pradesh</u></string>
+    <string name="statewiseHead"><u>Statewise</u></string>
+    <string name="covid_19_tracker"><u>COVID 19 Tracker</u></string>
+    <string name="world_data"><u>World data</u></string>
+    <string name="total_casesWorld"><u>*Total Cases:</u></string>
+    <string name="recovery_rate"><u>*Recovery Rate:</u></string>
+    <string name="deaths"><u>*Deaths:</u></string>
+
+</resources>
